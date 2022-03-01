@@ -35,6 +35,13 @@ body {
     margin         : 1%;
 }
 
+.container-frame p {
+    margin-top : 2%;
+    font-size  : x-large;
+    text-align : center;
+    font-weight: 600;
+}
+
 .frame {
     width           : 400px;
     height          : 400px;
